@@ -80,6 +80,8 @@ DATABASES = {
         'NAME':  'Django_db',
         'USER':  'ygytkyky',
         'PASSWORD':  '20030307ry',
+        'HOST': 'ygytkyky.mysql.pythonanywhere-services.com',
+        #host add
     }
 }
 
